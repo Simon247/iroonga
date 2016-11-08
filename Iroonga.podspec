@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "Iroonga"
   s.version      = "0.0.1"
   s.summary      = "Groonga for iOS"
-  s.description  = ""
+  s.description  = "Groonga for iOS"
   s.homepage     = "http://groonga.org"
   s.author       = { "goccy" => "goccy54@gmail.com" }
   s.source       = { :git => "https://github.com/goccy/iroonga" }
